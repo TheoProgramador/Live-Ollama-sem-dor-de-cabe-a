@@ -1,0 +1,14 @@
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\bin\Debug\net8.0\Ollama.exe
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\bin\Debug\net8.0\Ollama.deps.json
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\bin\Debug\net8.0\Ollama.runtimeconfig.json
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\bin\Debug\net8.0\Ollama.dll
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\bin\Debug\net8.0\Ollama.pdb
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\obj\Debug\net8.0\Ollama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\obj\Debug\net8.0\Ollama.AssemblyInfoInputs.cache
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\obj\Debug\net8.0\Ollama.AssemblyInfo.cs
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\obj\Debug\net8.0\Ollama.csproj.CoreCompileInputs.cache
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\obj\Debug\net8.0\Ollama.dll
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\obj\Debug\net8.0\refint\Ollama.dll
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\obj\Debug\net8.0\Ollama.pdb
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\obj\Debug\net8.0\Ollama.genruntimeconfig.cache
+C:\Users\Lives\Desktop\Live Ollama sem dor de cabeça\C#\Ollama\Ollama\obj\Debug\net8.0\ref\Ollama.dll

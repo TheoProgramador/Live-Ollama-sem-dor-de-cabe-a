@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lives\\Desktop\\Live Ollama sem dor de cabe\u00E7a\\C#\\Ollama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0492AF-335C-4A55-B683-15E86EF4F59B}|Ollama\\Ollama.csproj|c:\\users\\lives\\desktop\\live ollama sem dor de cabe\u00E7a\\c#\\ollama\\ollama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0492AF-335C-4A55-B683-15E86EF4F59B}|Ollama\\Ollama.csproj|solutionrelative:ollama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lives\\Desktop\\Live Ollama sem dor de cabe\u00E7a\\C#\\Ollama\\Ollama\\Program.cs",
+              "RelativeDocumentMoniker": "Ollama\\Program.cs",
+              "ToolTip": "C:\\Users\\Lives\\Desktop\\Live Ollama sem dor de cabe\u00E7a\\C#\\Ollama\\Ollama\\Program.cs",
+              "RelativeToolTip": "Ollama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:41:45.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
